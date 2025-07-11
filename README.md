@@ -36,7 +36,7 @@ Build and train an LSTM model to forecast the next day's adjusted closing price 
 
 1. Download NVIDIA stock dataset (`NVDA.csv`)
 2. Place it in the path
-3. Run `lstm_nvda_predictor.py` (the main script)
+3. Run `NVIDIA_stock_prediction_lstm.ipynb` (the main script)
 4. View prediction graphs and next-day price in terminal
 
 ## Output
